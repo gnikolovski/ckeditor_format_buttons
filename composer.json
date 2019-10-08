@@ -1,0 +1,20 @@
+{
+    "name": "drupal/ckeditor_format_buttons",
+    "description": "Adds the Format Buttons plugin to CKEditor.",
+    "type": "drupal-module",
+    "homepage": "https://www.drupal.org/project/ckeditor_format_buttons",
+    "authors": [
+        {
+            "name": "Goran Nikolovski",
+            "email": "goran@gorannikolovski.com",
+            "homepage": "https://gorannikolovski.com",
+            "role": "Developer"
+        }
+    ],
+    "support": {
+        "issues": "https://www.drupal.org/node/add/project-issue/ckeditor_format_buttons",
+        "email": "goran@gorannikolovski.com"
+    },
+    "license": "GPL-2.0+",
+    "minimum-stability": "dev"
+}

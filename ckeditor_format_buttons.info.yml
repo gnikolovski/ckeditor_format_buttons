@@ -1,0 +1,7 @@
+name: 'CKEditor Format Buttons'
+type: module
+description: 'Adds the Format Buttons plugin to CKEditor.'
+package: CKEditor
+core: 8.x
+dependencies:
+  - drupal:ckeditor
