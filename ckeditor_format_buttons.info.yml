@@ -3,5 +3,6 @@ type: module
 description: 'Adds the Format Buttons plugin to CKEditor.'
 package: CKEditor
 core: 8.x
+core_version_requirement: ^8 || ^9
 dependencies:
   - drupal:ckeditor
