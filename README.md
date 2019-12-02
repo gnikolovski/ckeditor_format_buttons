@@ -13,6 +13,12 @@ INTRODUCTION
 
 Adds the [Format Buttons plugin](https://ckeditor.com/cke4/addon/formatbuttons) to CKEditor.
 
+ * For a full description of the module, visit the project page:
+   https://www.drupal.org/project/ckeditor_format_buttons
+
+ * To submit bug reports and feature suggestions, or to track changes:
+   https://www.drupal.org/project/issues/ckeditor_format_buttons
+
 
 REQUIREMENTS
 ------------
