@@ -2,7 +2,7 @@
 
 namespace Drupal\Tests\ckeditor_format_buttons\Kernel;
 
-use Drupal\Tests\token\Kernel\KernelTestBase;
+use Drupal\KernelTests\KernelTestBase;
 
 /**
  * Tests FormatButtons plugin.
