@@ -23,9 +23,10 @@ Adds the [Format Buttons plugin](https://ckeditor.com/cke4/addon/formatbuttons) 
 REQUIREMENTS
 ------------
 
-This module requires no modules outside of Drupal core, but you must download
-the Format Buttons plugin from https://ckeditor.com/cke4/addon/formatbuttons
-and place it in the root *libraries* folder.
+This module requires no modules outside of Drupal core, but if you are not using
+Composer to manage your dependencies, then you must download the Format Buttons 
+plugin from https://ckeditor.com/cke4/addon/formatbuttons and place it in the 
+root *libraries* folder.
 
 
 INSTALLATION
