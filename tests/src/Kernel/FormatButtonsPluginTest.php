@@ -25,10 +25,10 @@ class FormatButtonsPluginTest extends KernelTestBase {
   public function testFormatButtons() {
     $plugin_manager = \Drupal::service('plugin.manager.ckeditor.plugin');
     $plugin_definition = $plugin_manager->getDefinition('format_buttons');
-    $this->assertEqual($plugin_definition['id'], 'format_buttons');
-    $this->assertEqual($plugin_definition['label'], 'Format Buttons');
-    $this->assertEqual($plugin_definition['class'], 'Drupal\ckeditor_format_buttons\Plugin\CKEditorPlugin\FormatButtonsPlugin');
-    $this->assertEqual($plugin_definition['provider'], 'ckeditor_format_buttons');
+    $this->assertEquals($plugin_definition['id'], 'format_buttons');
+    $this->assertEquals($plugin_definition['label'], 'Format Buttons');
+    $this->assertEquals($plugin_definition['class'], 'Drupal\ckeditor_format_buttons\Plugin\CKEditorPlugin\FormatButtonsPlugin');
+    $this->assertEquals($plugin_definition['provider'], 'ckeditor_format_buttons');
   }
 
 }
